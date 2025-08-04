@@ -1,17 +1,47 @@
-📊 **Sales Dashboard in Power BI**
+# 📊 Sales Dashboard — Power BI Project
 
-🔍 **What is analyzed:**  
-Sales by product, country, and segment. Discounts and profits are also taken into account.
+![Dashboard Screenshot](screenshots/sales_dashboard_main.png)
 
-📈 **What's in the report:**  
-- KPI panel (total sales, profit, units sold, profit ratio)
-- Monthly trend chart
-- Treemap by country
-- Tables by product and segment
-- Pie chart by discount level
+## 📌 Project Overview
 
-💡 **Insights:**  
-- PASEO product is the sales leader  
-- The US and Canada are key markets  
-- The “Government” segment generates high profits  
-- HIGH discounts account for 31% of all sales
+This interactive sales dashboard was built using Power BI to visualize key business metrics and provide actionable insights. It showcases the ability to clean and transform data, create effective visualizations, and build an intuitive user experience with filters and slicers.
+
+---
+
+## 🎯 Objectives
+
+- Display total revenue, order count, and average order value.
+- Analyze sales by product category, country, and year.
+- Identify seasonal trends and top-performing product segments.
+- Enable dynamic filtering by category, region, and date.
+
+---
+
+## 🧰 Tools & Technologies
+
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- CSV (Flat File Data Source)
+- Data Modeling & Relationships
+- Data Cleaning & Transformation
+
+---
+
+## 📂 Project Structure
+
+| Folder / File              | Description |
+|----------------------------|-------------|
+| PowerBI/                 | Contains the .pbix Power BI dashboard file |
+| data/sales_data.csv      | Original sales dataset (cleaned and structured) |
+| screenshots/             | Screenshots of the dashboard UI |
+| assets/                  | Icons and supporting visuals |
+
+---
+
+## 📈 Key Visualizations
+
+- KPI cards showing total sales, order volume, and profit.
+- Bar charts for sales by category and region.
+- Time-series line chart for tracking monthly revenue trends.
+- Pie chart and map visualization for geographical analysis.
+- Slicers to filter by year, country, and product category.
