@@ -55,5 +55,3 @@ This interactive sales dashboard was built using Power BI to visualize key busin
 - Customer Segmentation: The Corporate segment generated more revenue per transaction on average compared to Consumer and Home Office segments.
 - Geographical Trends: Western Europe and North America were the strongest regions in terms of overall sales and profitability.
 - Product Trends: A small number of products generated a disproportionately high share of revenue, following the Pareto principle (80/20 rule).
-
-These insights can help guide business decisions such as adjusting inventory, targeting promotions, and optimizing pricing strategies for top-performing segments.
