@@ -45,3 +45,15 @@ This interactive sales dashboard was built using Power BI to visualize key busin
 - Time-series line chart for tracking monthly revenue trends.
 - Pie chart and map visualization for geographical analysis.
 - Slicers to filter by year, country, and product category.
+
+- ## 📈 Key Insights from the Dashboard
+
+- Total Sales: The business generated over $700,000 in total sales across all countries and categories.
+- Top Performing Country: The United States had the highest sales volume and revenue contribution, followed by Germany and France.
+- Best-Selling Category: Technology led in both revenue and units sold, outperforming Office Supplies and Furniture.
+- Seasonality: Sales peaked in Q4 (October–December), indicating a strong year-end buying pattern.
+- Customer Segmentation: The Corporate segment generated more revenue per transaction on average compared to Consumer and Home Office segments.
+- Geographical Trends: Western Europe and North America were the strongest regions in terms of overall sales and profitability.
+- Product Trends: A small number of products generated a disproportionately high share of revenue, following the Pareto principle (80/20 rule).
+
+These insights can help guide business decisions such as adjusting inventory, targeting promotions, and optimizing pricing strategies for top-performing segments.
